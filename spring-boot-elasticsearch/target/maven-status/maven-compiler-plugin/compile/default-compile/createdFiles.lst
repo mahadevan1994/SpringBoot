@@ -1,0 +1,6 @@
+com\elasticsearchdemo\elasticsearch\ElasticSearchApplication.class
+com\elasticsearchdemo\elasticsearch\config\Test.class
+com\elasticsearchdemo\elasticsearch\dao\BookDao.class
+com\elasticsearchdemo\elasticsearch\config\ElasticSearchConfiguration.class
+com\elasticsearchdemo\elasticsearch\bean\Book.class
+com\elasticsearchdemo\elasticsearch\controller\BookController.class
