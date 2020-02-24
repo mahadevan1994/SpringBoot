@@ -1,0 +1,5 @@
+com\sampleapp\hateoasdemo\dao\ProductDAO.class
+com\sampleapp\hateoasdemo\model\ProductListVO.class
+com\sampleapp\hateoasdemo\controller\ProductRESTController.class
+com\sampleapp\hateoasdemo\model\ProductVO.class
+com\sampleapp\hateoasdemo\HateoasdemoApplication.class
